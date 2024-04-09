@@ -1,3 +1,13 @@
+env/
+db/
+__pycache__/
+application_key.json
+ai-data.json
+
+# Tasks
+*_solution.py
+helical-study-418822-27d11a4afbc5.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
